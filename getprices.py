@@ -23,4 +23,4 @@ def get_value(id):
 
     return(sum(average)/len(average))
 
-print("Tritanium="+str(get_value(34))+" Pyereite="+str(get_value(35))+" Mexallon="+str(get_value(36))+" Isogen="+str(get_value(37))+" Noxium="+str(get_value(38))+" Zydrine="+str(get_value(39))+" Megacyte="+str(get_value(40))+" Morthite="+str(get_value(11399)))
+print("Tritanium="+"{:.2f}".format(get_value(34))+" Pyereite="+"{:.2f}".format(get_value(35))+" Mexallon="+"{:.2f}".format(get_value(36))+" Isogen="+"{:.2f}".format(get_value(37))+" Noxium="+"{:.2f}".format(get_value(38))+" Zydrine="+"{:.2f}".format(get_value(39))+" Megacyte="+"{:.2f}".format(get_value(40))+" Morthite="+"{:.2f}".format(get_value(11399)))
