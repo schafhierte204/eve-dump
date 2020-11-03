@@ -24,4 +24,20 @@ def get_value(id):
 
     return(sum(average)/len(average))
 
-print("Tritanium="+"{:.2f}".format(get_value(34))+" Pyereite="+"{:.2f}".format(get_value(35))+" Mexallon="+"{:.2f}".format(get_value(36))+" Isogen="+"{:.2f}".format(get_value(37))+" Noxium="+"{:.2f}".format(get_value(38))+" Zydrine="+"{:.2f}".format(get_value(39))+" Megacyte="+"{:.2f}".format(get_value(40))+" Morphite="+"{:.2f}".format(get_value(11399))+" "+str(time.ctime(time.time())))
+price = {
+        "Tritanium":get_value(34),
+        "Pyerite":get_value(35),
+        "Mexallon":get_value(36),
+        "Isogen":get_value(37),
+        "Noxium":get_value(38),
+        "Zydrine":get_value(39),
+        "Megacyte":get_value(40),
+        "Morphite":get_value(11399)
+        }
+
+print("Tritanium="+"{:.2f}".format(price["Tritanium"])+" Pyerite="+"{:.2f}".format(price["Pyerite"])+" Mexallon="+"{:.2f}".format(price["Mexallon"])+" Isogen="+"{:.2f}".format(price["Isogen"])+" Noxium="+"{:.2f}".format(price["Noxium"])+" Zydrine="+"{:.2f}".format(price["Zydrine"])+" Megacyte="+"{:.2f}".format(price["Megacyte"])+" Morphite="+"{:.2f}".format(price["Morphite"])+" "+str(time.ctime(time.time())))
+f = open("output.json", "a")
+f.write(json.dumps(price)+",\n")
+f.close
+
+
