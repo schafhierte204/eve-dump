@@ -1,13 +1,14 @@
 import json
+import os
 import requests
 import time
 from operator import itemgetter
 def get_value(id):
-    payload = {'datasource':'tranquility','order_type':'buy','region_id':'10000043','type_id':''}
+    payload = {'datasource':'tranquility','order_type':'sell','region_id':'10000043','type_id':''}
     payload['type_id']=id
     r = requests.get("https://esi.evetech.net/latest/markets/10000043/orders", params=payload)
     orders=json.loads(r.text)
-    orders = sorted(orders, key=itemgetter('price'), reverse=True)
+    orders = sorted(orders, key=itemgetter('price'), reverse=False)
     i= 0
     l =len(orders)
     volume=100000000
@@ -36,7 +37,9 @@ price = {
         }
 
 print("Tritanium="+"{:.2f}".format(price["Tritanium"])+" Pyerite="+"{:.2f}".format(price["Pyerite"])+" Mexallon="+"{:.2f}".format(price["Mexallon"])+" Isogen="+"{:.2f}".format(price["Isogen"])+" Noxium="+"{:.2f}".format(price["Noxium"])+" Zydrine="+"{:.2f}".format(price["Zydrine"])+" Megacyte="+"{:.2f}".format(price["Megacyte"])+" Morphite="+"{:.2f}".format(price["Morphite"])+" "+str(time.ctime(time.time())))
-f = open("output.json", "a")
+dirname = os.path.dirname(__file__)
+filename = os.path.join(dirname, 'output.json')
+f = open(filename, "a")
 f.write(json.dumps(price)+",\n")
 f.close
 
