@@ -1,0 +1,1729 @@
+Veldspar=                         -1.398 =17.310
+Dense Veldspar=                   -5.416 =15.210
+Concentrated Veldspar=            -2.277 =17.390
+Comressed Veldspar=               -118.752 =1752.000
+Comressed Dense Veldspar=         -62.624 =2000.000
+Comressed Concentrated Veldspar=  -114.688 =1852.000
+Proxeres=                         -0.291 =32.050
+Stable Pyroxeres=                 2.103 =37.030
+Viscos Proxeres=                  5.758 =41.010
+Comressed Proxeres=               373.929 =3608.000
+Comressed Stable Proxeres=        -58.680 =3434.000
+Comressed Viscos Proxeres=        210.812 =3736.000
+Scoredite=                        2.440 =17.040
+Massive Scoredite=                2.926 =18.320
+Concentrated Scoredite=           -1591.007 =16.840
+Comressed Scoredite=              618.956 =2079.000
+Comressed Massive Scoredite=      419.637 =1959.000
+Comressed Concentrated Scoredite= 403.153 =2011.000
+
+Veldspar=                         -1.398 =17.310
+Dense Veldspar=                   -5.416 =15.210
+Concentrated Veldspar=            -2.277 =17.390
+Comressed Veldspar=               -120.752 =1750.000
+Comressed Dense Veldspar=         -62.624 =2000.000
+Comressed Concentrated Veldspar=  -114.688 =1852.000
+Proxeres=                         -0.406 =32.050
+Stable Pyroxeres=                 1.978 =37.030
+Viscos Proxeres=                  5.632 =41.010
+Comressed Proxeres=               362.369 =3608.000
+Comressed Stable Proxeres=        -71.214 =3434.000
+Comressed Viscos Proxeres=        198.232 =3736.000
+Scoredite=                        2.429 =17.040
+Massive Scoredite=                2.915 =18.320
+Concentrated Scoredite=           -1592.175 =16.850
+Comressed Scoredite=              617.886 =2079.000
+Comressed Massive Scoredite=      418.505 =1959.000
+Comressed Concentrated Scoredite= 401.975 =2011.000
+
+Veldspar=                         -1.398 =17.310
+Dense Veldspar=                   -5.416 =15.210
+Concentrated Veldspar=            -2.277 =17.390
+Comressed Veldspar=               -141.752 =1729.000
+Comressed Dense Veldspar=         -62.624 =2000.000
+Comressed Concentrated Veldspar=  -114.688 =1852.000
+Proxeres=                         -0.517 =32.050
+Stable Pyroxeres=                 1.857 =37.030
+Viscos Proxeres=                  5.512 =41.010
+Comressed Proxeres=               351.290 =3608.000
+Comressed Stable Proxeres=        -83.311 =3434.000
+Comressed Viscos Proxeres=        186.214 =3736.000
+Scoredite=                        2.447 =17.040
+Massive Scoredite=                2.934 =18.320
+Concentrated Scoredite=           -1590.159 =16.850
+Comressed Scoredite=              619.718 =2079.000
+Comressed Massive Scoredite=      420.442 =1959.000
+Comressed Concentrated Scoredite= 404.991 =2012.000
+
+Veldspar=                         -1.524 =17.310
+Dense Veldspar=                   -5.556 =15.210
+Concentrated Veldspar=            -2.410 =17.390
+Comressed Veldspar=               -154.440 =1729.000
+Comressed Dense Veldspar=         -76.613 =2000.000
+Comressed Concentrated Veldspar=  -128.027 =1852.000
+Proxeres=                         -0.572 =32.050
+Stable Pyroxeres=                 1.799 =37.030
+Viscos Proxeres=                  5.452 =41.010
+Comressed Proxeres=               345.778 =3608.000
+Comressed Stable Proxeres=        -89.138 =3434.000
+Comressed Viscos Proxeres=        180.150 =3736.000
+Scoredite=                        2.344 =17.040
+Massive Scoredite=                2.826 =18.320
+Concentrated Scoredite=           -1601.469 =16.850
+Comressed Scoredite=              609.447 =2079.000
+Comressed Massive Scoredite=      409.612 =1959.000
+Comressed Concentrated Scoredite= 393.681 =2012.000
+
+Veldspar=                         -1.457 =17.310
+Dense Veldspar=                   -5.482 =15.210
+Concentrated Veldspar=            -2.339 =17.390
+Comressed Veldspar=               -147.680 =1729.000
+Comressed Dense Veldspar=         -69.160 =2000.000
+Comressed Concentrated Veldspar=  -120.920 =1852.000
+Proxeres=                         -0.780 =32.050
+Stable Pyroxeres=                 1.573 =37.030
+Viscos Proxeres=                  5.225 =41.010
+Comressed Proxeres=               324.978 =3608.000
+Comressed Stable Proxeres=        -111.747 =3434.000
+Comressed Viscos Proxeres=        157.542 =3736.000
+Scoredite=                        2.370 =17.040
+Massive Scoredite=                2.853 =18.320
+Concentrated Scoredite=           -1598.674 =16.850
+Comressed Scoredite=              611.983 =2079.000
+Comressed Massive Scoredite=      412.278 =1959.000
+Comressed Concentrated Scoredite= 396.476 =2012.000
+
+Veldspar=                         -1.457 =17.310
+Dense Veldspar=                   -5.482 =15.210
+Concentrated Veldspar=            -2.339 =17.390
+Comressed Veldspar=               -146.680 =1730.000
+Comressed Dense Veldspar=         -69.160 =2000.000
+Comressed Concentrated Veldspar=  -119.920 =1853.000
+Proxeres=                         -0.648 =32.050
+Stable Pyroxeres=                 1.718 =37.030
+Viscos Proxeres=                  5.368 =41.010
+Comressed Proxeres=               338.179 =3608.000
+Comressed Stable Proxeres=        -96.151 =3435.000
+Comressed Viscos Proxeres=        171.783 =3736.000
+Scoredite=                        2.287 =17.040
+Massive Scoredite=                2.765 =18.320
+Concentrated Scoredite=           -1607.779 =16.850
+Comressed Scoredite=              603.705 =2079.000
+Comressed Massive Scoredite=      403.527 =1959.000
+Comressed Concentrated Scoredite= 388.371 =2013.000
+
+Veldspar=                         -2.514 =17.310
+Dense Veldspar=                   -6.648 =15.210
+Concentrated Veldspar=            -3.451 =17.390
+Comressed Veldspar=               -252.448 =1730.000
+Comressed Dense Veldspar=         -185.776 =2000.000
+Comressed Concentrated Veldspar=  -231.112 =1853.000
+Proxeres=                         -1.031 =32.050
+Stable Pyroxeres=                 1.303 =37.030
+Viscos Proxeres=                  4.952 =41.010
+Comressed Proxeres=               299.901 =3608.000
+Comressed Stable Proxeres=        -137.720 =3435.000
+Comressed Viscos Proxeres=        130.160 =3736.000
+Scoredite=                        1.878 =17.040
+Massive Scoredite=                2.335 =18.320
+Concentrated Scoredite=           -1652.896 =16.850
+Comressed Scoredite=              562.782 =2079.000
+Comressed Massive Scoredite=      360.498 =1959.000
+Comressed Concentrated Scoredite= 343.254 =2013.000
+
+Veldspar=                         -2.172 =17.510
+Dense Veldspar=                   -6.471 =15.230
+Concentrated Veldspar=            -3.291 =17.400
+Comressed Veldspar=               -237.200 =1731.000
+Comressed Dense Veldspar=         -169.067 =2001.000
+Comressed Concentrated Veldspar=  -218.133 =1851.000
+Proxeres=                         -1.285 =32.050
+Stable Pyroxeres=                 1.028 =37.030
+Viscos Proxeres=                  4.674 =41.010
+Comressed Proxeres=               274.462 =3608.000
+Comressed Stable Proxeres=        -166.150 =3434.000
+Comressed Viscos Proxeres=        102.412 =3736.000
+Scoredite=                        1.867 =17.050
+Massive Scoredite=                2.313 =18.320
+Concentrated Scoredite=           -1655.167 =16.850
+Comressed Scoredite=              562.705 =2081.000
+Comressed Massive Scoredite=      359.271 =1960.000
+Comressed Concentrated Scoredite= 342.983 =2015.000
+
+Veldspar=                         -2.362 =17.320
+Dense Veldspar=                   -6.461 =15.240
+Concentrated Veldspar=            -3.291 =17.400
+Comressed Veldspar=               -237.200 =1731.000
+Comressed Dense Veldspar=         -169.067 =2001.000
+Comressed Concentrated Veldspar=  -218.133 =1851.000
+Proxeres=                         -1.285 =32.050
+Stable Pyroxeres=                 1.028 =37.030
+Viscos Proxeres=                  4.674 =41.010
+Comressed Proxeres=               274.462 =3608.000
+Comressed Stable Proxeres=        -166.150 =3434.000
+Comressed Viscos Proxeres=        102.412 =3736.000
+Scoredite=                        1.867 =17.050
+Massive Scoredite=                2.313 =18.320
+Concentrated Scoredite=           -1655.167 =16.850
+Comressed Scoredite=              562.705 =2081.000
+Comressed Massive Scoredite=      359.271 =1960.000
+Comressed Concentrated Scoredite= 343.983 =2016.000
+
+Veldspar=                         -2.201 =17.320
+Dense Veldspar=                   -6.283 =15.240
+Concentrated Veldspar=            -3.122 =17.400
+Comressed Veldspar=               -221.080 =1731.000
+Comressed Dense Veldspar=         -151.293 =2001.000
+Comressed Concentrated Veldspar=  -201.187 =1851.000
+Proxeres=                         -1.364 =32.050
+Stable Pyroxeres=                 0.947 =37.030
+Viscos Proxeres=                  4.588 =41.010
+Comressed Proxeres=               266.641 =3608.000
+Comressed Stable Proxeres=        -174.329 =3434.000
+Comressed Viscos Proxeres=        93.771 =3736.000
+Scoredite=                        1.820 =17.050
+Massive Scoredite=                2.262 =18.320
+Concentrated Scoredite=           -1660.360 =16.850
+Comressed Scoredite=              557.970 =2081.000
+Comressed Massive Scoredite=      354.230 =1960.000
+Comressed Concentrated Scoredite= 339.790 =2017.000
+
+Veldspar=                         -2.227 =17.320
+Dense Veldspar=                   -6.312 =15.240
+Concentrated Veldspar=            -3.149 =17.400
+Comressed Veldspar=               -223.680 =1731.000
+Comressed Dense Veldspar=         -154.160 =2001.000
+Comressed Concentrated Veldspar=  -203.920 =1851.000
+Proxeres=                         -1.275 =32.050
+Stable Pyroxeres=                 1.043 =37.030
+Viscos Proxeres=                  4.684 =41.010
+Comressed Proxeres=               275.525 =3608.000
+Comressed Stable Proxeres=        -164.673 =3434.000
+Comressed Viscos Proxeres=        103.427 =3736.000
+Scoredite=                        1.810 =17.050
+Massive Scoredite=                2.252 =18.320
+Concentrated Scoredite=           -1661.435 =16.850
+Comressed Scoredite=              557.995 =2082.000
+Comressed Massive Scoredite=      354.205 =1961.000
+Comressed Concentrated Scoredite= 340.715 =2019.000
+
+Veldspar=                         -2.201 =17.320
+Dense Veldspar=                   -6.283 =15.240
+Concentrated Veldspar=            -3.122 =17.400
+Comressed Veldspar=               -225.080 =1727.000
+Comressed Dense Veldspar=         -151.293 =2001.000
+Comressed Concentrated Veldspar=  -201.187 =1851.000
+Proxeres=                         -1.532 =32.050
+Stable Pyroxeres=                 0.765 =37.030
+Viscos Proxeres=                  4.405 =41.010
+Comressed Proxeres=               249.834 =3608.000
+Comressed Stable Proxeres=        -192.529 =3434.000
+Comressed Viscos Proxeres=        75.472 =3736.000
+Scoredite=                        1.797 =17.050
+Massive Scoredite=                2.238 =18.320
+Concentrated Scoredite=           -1662.896 =16.850
+Comressed Scoredite=              555.664 =2081.000
+Comressed Massive Scoredite=      352.792 =1961.000
+Comressed Concentrated Scoredite= 339.254 =2019.000
+
+Veldspar=                         -2.146 =17.320
+Dense Veldspar=                   -6.222 =15.240
+Concentrated Veldspar=            -3.064 =17.400
+Comressed Veldspar=               -219.568 =1727.000
+Comressed Dense Veldspar=         -145.216 =2001.000
+Comressed Concentrated Veldspar=  -195.392 =1851.000
+Proxeres=                         -1.386 =32.050
+Stable Pyroxeres=                 0.923 =37.030
+Viscos Proxeres=                  4.563 =41.010
+Comressed Proxeres=               264.414 =3608.000
+Comressed Stable Proxeres=        -176.681 =3434.000
+Comressed Viscos Proxeres=        91.320 =3736.000
+Scoredite=                        1.817 =17.050
+Massive Scoredite=                2.260 =18.320
+Concentrated Scoredite=           -1660.617 =16.850
+Comressed Scoredite=              557.731 =2081.000
+Comressed Massive Scoredite=      354.965 =1961.000
+Comressed Concentrated Scoredite= 341.533 =2019.000
+
+Veldspar=                         -2.027 =17.320
+Dense Veldspar=                   -6.092 =15.240
+Concentrated Veldspar=            -2.940 =17.400
+Comressed Veldspar=               -207.747 =1727.000
+Comressed Dense Veldspar=         -132.182 =2001.000
+Comressed Concentrated Veldspar=  -182.964 =1851.000
+Proxeres=                         -1.183 =32.050
+Stable Pyroxeres=                 1.143 =37.030
+Viscos Proxeres=                  4.784 =41.010
+Comressed Proxeres=               284.709 =3608.000
+Comressed Stable Proxeres=        -154.682 =3434.000
+Comressed Viscos Proxeres=        113.406 =3736.000
+Scoredite=                        1.882 =17.050
+Massive Scoredite=                2.328 =18.320
+Concentrated Scoredite=           -1653.493 =16.850
+Comressed Scoredite=              564.198 =2081.000
+Comressed Massive Scoredite=      361.776 =1961.000
+Comressed Concentrated Scoredite= 348.657 =2019.000
+
+Veldspar=                         -2.082 =17.320
+Dense Veldspar=                   -6.152 =15.240
+Concentrated Veldspar=            -2.997 =17.400
+Comressed Veldspar=               -213.250 =1727.000
+Comressed Dense Veldspar=         -138.250 =2001.000
+Comressed Concentrated Veldspar=  -188.750 =1851.000
+Proxeres=                         -0.887 =32.050
+Stable Pyroxeres=                 1.464 =37.030
+Viscos Proxeres=                  5.105 =41.010
+Comressed Proxeres=               314.253 =3608.000
+Comressed Stable Proxeres=        -122.638 =3434.000
+Comressed Viscos Proxeres=        145.549 =3736.000
+Scoredite=                        1.884 =17.050
+Massive Scoredite=                2.330 =18.320
+Concentrated Scoredite=           -1653.255 =16.850
+Comressed Scoredite=              564.419 =2081.000
+Comressed Massive Scoredite=      362.021 =1961.000
+Comressed Concentrated Scoredite= 348.895 =2019.000
+
+Veldspar=                         -2.017 =17.330
+Dense Veldspar=                   -6.092 =15.240
+Concentrated Veldspar=            -2.930 =17.410
+Comressed Veldspar=               -206.747 =1728.000
+Comressed Dense Veldspar=         -164.182 =1969.000
+Comressed Concentrated Veldspar=  -183.964 =1850.000
+Proxeres=                         -0.979 =32.060
+Stable Pyroxeres=                 1.356 =37.030
+Viscos Proxeres=                  4.994 =41.010
+Comressed Proxeres=               304.098 =3608.000
+Comressed Stable Proxeres=        -132.357 =3435.000
+Comressed Viscos Proxeres=        134.371 =3736.000
+Scoredite=                        484.748 =500.000
+Massive Scoredite=                2.239 =18.320
+Concentrated Scoredite=           -1662.712 =16.860
+Comressed Scoredite=              556.807 =2082.000
+Comressed Massive Scoredite=      353.906 =1962.000
+Comressed Concentrated Scoredite= 341.428 =2021.000
+
+Veldspar=                         -2.332 =17.330
+Dense Veldspar=                   -6.439 =15.240
+Concentrated Veldspar=            -3.261 =17.410
+Comressed Veldspar=               -239.224 =1727.000
+Comressed Dense Veldspar=         -199.888 =1968.000
+Comressed Concentrated Veldspar=  -217.056 =1850.000
+Proxeres=                         -1.230 =32.060
+Stable Pyroxeres=                 1.088 =37.030
+Viscos Proxeres=                  4.720 =41.010
+Comressed Proxeres=               279.022 =3608.000
+Comressed Stable Proxeres=        -159.248 =3435.000
+Comressed Viscos Proxeres=        106.956 =3736.000
+Scoredite=                        1.557 =17.050
+Massive Scoredite=                1.985 =18.320
+Concentrated Scoredite=           -1689.207 =16.860
+Comressed Scoredite=              532.748 =2082.000
+Comressed Massive Scoredite=      328.541 =1962.000
+Comressed Concentrated Scoredite= 315.933 =2022.000
+
+Veldspar=                         -2.300 =17.330
+Dense Veldspar=                   -4.634 =17.010
+Concentrated Veldspar=            -3.227 =17.410
+Comressed Veldspar=               -234.047 =1729.000
+Comressed Dense Veldspar=         -196.385 =1968.000
+Comressed Concentrated Veldspar=  -364.716 =1699.000
+Proxeres=                         -1.230 =32.060
+Stable Pyroxeres=                 1.088 =37.030
+Viscos Proxeres=                  4.720 =41.010
+Comressed Proxeres=               279.022 =3608.000
+Comressed Stable Proxeres=        -160.248 =3434.000
+Comressed Viscos Proxeres=        106.956 =3736.000
+Scoredite=                        1.569 =17.050
+Massive Scoredite=                1.998 =18.320
+Concentrated Scoredite=           -1687.894 =16.860
+Comressed Scoredite=              533.940 =2082.000
+Comressed Massive Scoredite=      329.793 =1962.000
+Comressed Concentrated Scoredite= 318.246 =2023.000
+
+Veldspar=                         -2.277 =17.330
+Dense Veldspar=                   -4.608 =17.010
+Concentrated Veldspar=            -3.202 =17.410
+Comressed Veldspar=               -231.660 =1729.000
+Comressed Dense Veldspar=         -193.753 =1968.000
+Comressed Concentrated Veldspar=  -362.207 =1699.000
+Proxeres=                         -1.047 =32.060
+Stable Pyroxeres=                 1.278 =37.030
+Viscos Proxeres=                  4.922 =41.010
+Comressed Proxeres=               297.311 =3608.000
+Comressed Stable Proxeres=        -141.192 =3434.000
+Comressed Viscos Proxeres=        127.194 =3736.000
+Scoredite=                        1.854 =17.050
+Massive Scoredite=                2.299 =18.320
+Concentrated Scoredite=           -1656.560 =16.860
+Comressed Scoredite=              562.423 =2082.000
+Comressed Massive Scoredite=      359.899 =1962.000
+Comressed Concentrated Scoredite= 349.580 =2023.000
+
+Veldspar=                         -2.277 =17.330
+Dense Veldspar=                   -4.608 =17.010
+Concentrated Veldspar=            -3.202 =17.410
+Comressed Veldspar=               -231.660 =1729.000
+Comressed Dense Veldspar=         -193.753 =1968.000
+Comressed Concentrated Veldspar=  -362.207 =1699.000
+Proxeres=                         -1.050 =32.060
+Stable Pyroxeres=                 1.275 =37.030
+Viscos Proxeres=                  4.918 =41.010
+Comressed Proxeres=               296.979 =3608.000
+Comressed Stable Proxeres=        -141.542 =3434.000
+Comressed Viscos Proxeres=        126.829 =3736.000
+Scoredite=                        1.851 =17.050
+Massive Scoredite=                2.295 =18.320
+Concentrated Scoredite=           -1656.925 =16.860
+Comressed Scoredite=              562.091 =2082.000
+Comressed Massive Scoredite=      359.549 =1962.000
+Comressed Concentrated Scoredite= 349.215 =2023.000
+
+Veldspar=                         -2.277 =17.330
+Dense Veldspar=                   -4.608 =17.010
+Concentrated Veldspar=            -3.202 =17.410
+Comressed Veldspar=               -231.660 =1729.000
+Comressed Dense Veldspar=         -193.753 =1968.000
+Comressed Concentrated Veldspar=  -362.207 =1699.000
+Proxeres=                         -1.050 =32.060
+Stable Pyroxeres=                 1.275 =37.030
+Viscos Proxeres=                  4.918 =41.010
+Comressed Proxeres=               296.979 =3608.000
+Comressed Stable Proxeres=        -141.542 =3434.000
+Comressed Viscos Proxeres=        126.829 =3736.000
+Scoredite=                        1.851 =17.050
+Massive Scoredite=                2.295 =18.320
+Concentrated Scoredite=           -1656.925 =16.860
+Comressed Scoredite=              562.091 =2082.000
+Comressed Massive Scoredite=      359.549 =1962.000
+Comressed Concentrated Scoredite= 349.215 =2023.000
+
+Veldspar=                         -2.277 =17.330
+Dense Veldspar=                   -4.608 =17.010
+Concentrated Veldspar=            -3.202 =17.410
+Comressed Veldspar=               -231.660 =1729.000
+Comressed Dense Veldspar=         -193.753 =1968.000
+Comressed Concentrated Veldspar=  -362.207 =1699.000
+Proxeres=                         -1.050 =32.060
+Stable Pyroxeres=                 1.275 =37.030
+Viscos Proxeres=                  4.918 =41.010
+Comressed Proxeres=               296.979 =3608.000
+Comressed Stable Proxeres=        -141.542 =3434.000
+Comressed Viscos Proxeres=        126.829 =3736.000
+Scoredite=                        1.851 =17.050
+Massive Scoredite=                2.295 =18.320
+Concentrated Scoredite=           -1656.925 =16.860
+Comressed Scoredite=              562.091 =2082.000
+Comressed Massive Scoredite=      359.549 =1962.000
+Comressed Concentrated Scoredite= 349.215 =2023.000
+
+Veldspar=                         -2.277 =17.330
+Dense Veldspar=                   -4.608 =17.010
+Concentrated Veldspar=            -3.202 =17.410
+Comressed Veldspar=               -231.660 =1729.000
+Comressed Dense Veldspar=         -193.753 =1968.000
+Comressed Concentrated Veldspar=  -362.207 =1699.000
+Proxeres=                         -1.050 =32.060
+Stable Pyroxeres=                 1.275 =37.030
+Viscos Proxeres=                  4.918 =41.010
+Comressed Proxeres=               296.979 =3608.000
+Comressed Stable Proxeres=        -141.542 =3434.000
+Comressed Viscos Proxeres=        126.829 =3736.000
+Scoredite=                        1.851 =17.050
+Massive Scoredite=                2.295 =18.320
+Concentrated Scoredite=           -1656.925 =16.860
+Comressed Scoredite=              562.091 =2082.000
+Comressed Massive Scoredite=      359.549 =1962.000
+Comressed Concentrated Scoredite= 349.215 =2023.000
+
+Veldspar=                         -2.277 =17.330
+Dense Veldspar=                   -4.608 =17.010
+Concentrated Veldspar=            -3.202 =17.410
+Comressed Veldspar=               -231.660 =1729.000
+Comressed Dense Veldspar=         -193.753 =1968.000
+Comressed Concentrated Veldspar=  -362.207 =1699.000
+Proxeres=                         -1.050 =32.060
+Stable Pyroxeres=                 1.275 =37.030
+Viscos Proxeres=                  4.918 =41.010
+Comressed Proxeres=               296.979 =3608.000
+Comressed Stable Proxeres=        -141.542 =3434.000
+Comressed Viscos Proxeres=        126.829 =3736.000
+Scoredite=                        1.851 =17.050
+Massive Scoredite=                2.295 =18.320
+Concentrated Scoredite=           -1656.925 =16.860
+Comressed Scoredite=              562.091 =2082.000
+Comressed Massive Scoredite=      359.549 =1962.000
+Comressed Concentrated Scoredite= 349.215 =2023.000
+
+Veldspar=                         -2.277 =17.330
+Dense Veldspar=                   -4.608 =17.010
+Concentrated Veldspar=            -3.202 =17.410
+Comressed Veldspar=               -231.660 =1729.000
+Comressed Dense Veldspar=         -193.753 =1968.000
+Comressed Concentrated Veldspar=  -362.207 =1699.000
+Proxeres=                         -1.050 =32.060
+Stable Pyroxeres=                 1.275 =37.030
+Viscos Proxeres=                  4.918 =41.010
+Comressed Proxeres=               296.979 =3608.000
+Comressed Stable Proxeres=        -141.542 =3434.000
+Comressed Viscos Proxeres=        126.829 =3736.000
+Scoredite=                        1.851 =17.050
+Massive Scoredite=                2.295 =18.320
+Concentrated Scoredite=           -1656.925 =16.860
+Comressed Scoredite=              562.091 =2082.000
+Comressed Massive Scoredite=      359.549 =1962.000
+Comressed Concentrated Scoredite= 349.215 =2023.000
+
+Veldspar=                         -2.277 =17.330
+Dense Veldspar=                   -4.608 =17.010
+Concentrated Veldspar=            -3.202 =17.410
+Comressed Veldspar=               -231.660 =1729.000
+Comressed Dense Veldspar=         -193.753 =1968.000
+Comressed Concentrated Veldspar=  -362.207 =1699.000
+Proxeres=                         -1.050 =32.060
+Stable Pyroxeres=                 1.275 =37.030
+Viscos Proxeres=                  4.918 =41.010
+Comressed Proxeres=               296.979 =3608.000
+Comressed Stable Proxeres=        -141.542 =3434.000
+Comressed Viscos Proxeres=        126.829 =3736.000
+Scoredite=                        1.851 =17.050
+Massive Scoredite=                2.295 =18.320
+Concentrated Scoredite=           -1656.925 =16.860
+Comressed Scoredite=              562.091 =2082.000
+Comressed Massive Scoredite=      359.549 =1962.000
+Comressed Concentrated Scoredite= 349.215 =2023.000
+
+Veldspar=                         -2.277 =17.330
+Dense Veldspar=                   -4.608 =17.010
+Concentrated Veldspar=            -3.202 =17.410
+Comressed Veldspar=               -231.660 =1729.000
+Comressed Dense Veldspar=         -193.753 =1968.000
+Comressed Concentrated Veldspar=  -362.207 =1699.000
+Proxeres=                         -1.050 =32.060
+Stable Pyroxeres=                 1.275 =37.030
+Viscos Proxeres=                  4.918 =41.010
+Comressed Proxeres=               296.979 =3608.000
+Comressed Stable Proxeres=        -141.542 =3434.000
+Comressed Viscos Proxeres=        126.829 =3736.000
+Scoredite=                        1.851 =17.050
+Massive Scoredite=                2.295 =18.320
+Concentrated Scoredite=           -1656.925 =16.860
+Comressed Scoredite=              562.091 =2082.000
+Comressed Massive Scoredite=      359.549 =1962.000
+Comressed Concentrated Scoredite= 349.215 =2023.000
+
+Veldspar=                         -2.881 =17.330
+Dense Veldspar=                   -5.234 =17.050
+Concentrated Veldspar=            -3.838 =17.410
+Comressed Veldspar=               -287.136 =1734.000
+Comressed Dense Veldspar=         -279.432 =1949.000
+Comressed Concentrated Veldspar=  -425.784 =1699.000
+Proxeres=                         -1.040 =33.010
+Stable Pyroxeres=                 0.275 =37.030
+Viscos Proxeres=                  4.877 =42.000
+Comressed Proxeres=               203.974 =3609.000
+Comressed Stable Proxeres=        -238.481 =3437.000
+Comressed Viscos Proxeres=        24.670 =3737.000
+Scoredite=                        0.873 =17.050
+Massive Scoredite=                1.263 =18.320
+Concentrated Scoredite=           -1764.603 =16.850
+Comressed Scoredite=              474.264 =2092.000
+Comressed Massive Scoredite=      313.264 =2019.000
+Comressed Concentrated Scoredite= 308.547 =2090.000
+
+Veldspar=                         -2.881 =17.330
+Dense Veldspar=                   -5.234 =17.050
+Concentrated Veldspar=            -3.838 =17.410
+Comressed Veldspar=               -285.136 =1736.000
+Comressed Dense Veldspar=         -279.432 =1949.000
+Comressed Concentrated Veldspar=  -425.784 =1699.000
+Proxeres=                         -1.562 =33.010
+Stable Pyroxeres=                 -0.288 =37.030
+Viscos Proxeres=                  4.308 =42.000
+Comressed Proxeres=               151.784 =3609.000
+Comressed Stable Proxeres=        -294.785 =3437.000
+Comressed Viscos Proxeres=        -32.243 =3737.000
+Scoredite=                        0.731 =17.050
+Massive Scoredite=                1.112 =18.320
+Concentrated Scoredite=           -1780.234 =16.850
+Comressed Scoredite=              460.054 =2092.000
+Comressed Massive Scoredite=      298.242 =2019.000
+Comressed Concentrated Scoredite= 292.916 =2090.000
+
+Veldspar=                         -3.028 =17.330
+Dense Veldspar=                   -5.396 =17.050
+Concentrated Veldspar=            -3.992 =17.410
+Comressed Veldspar=               -299.800 =1736.000
+Comressed Dense Veldspar=         -295.600 =1949.000
+Comressed Concentrated Veldspar=  -441.200 =1699.000
+Proxeres=                         -1.676 =33.010
+Stable Pyroxeres=                 -0.412 =37.030
+Viscos Proxeres=                  4.184 =42.000
+Comressed Proxeres=               140.402 =3609.000
+Comressed Stable Proxeres=        -307.157 =3437.000
+Comressed Viscos Proxeres=        -44.615 =3737.000
+Scoredite=                        0.676 =17.050
+Massive Scoredite=                1.055 =18.320
+Concentrated Scoredite=           -1786.297 =16.850
+Comressed Scoredite=              454.555 =2092.000
+Comressed Massive Scoredite=      292.461 =2019.000
+Comressed Concentrated Scoredite= 286.853 =2090.000
+
+Veldspar=                         -3.028 =17.330
+Dense Veldspar=                   -5.396 =17.050
+Concentrated Veldspar=            -3.992 =17.410
+Comressed Veldspar=               -299.800 =1736.000
+Comressed Dense Veldspar=         -295.600 =1949.000
+Comressed Concentrated Veldspar=  -441.200 =1699.000
+Proxeres=                         -1.444 =33.010
+Stable Pyroxeres=                 -0.159 =37.030
+Viscos Proxeres=                  4.436 =42.000
+Comressed Proxeres=               163.613 =3609.000
+Comressed Stable Proxeres=        -281.928 =3437.000
+Comressed Viscos Proxeres=        -19.386 =3737.000
+Scoredite=                        0.676 =17.050
+Massive Scoredite=                1.055 =18.320
+Concentrated Scoredite=           -1786.297 =16.850
+Comressed Scoredite=              454.555 =2092.000
+Comressed Massive Scoredite=      292.461 =2019.000
+Comressed Concentrated Scoredite= 286.853 =2090.000
+
+Veldspar=                         -3.028 =17.330
+Dense Veldspar=                   -5.396 =17.050
+Concentrated Veldspar=            -3.992 =17.410
+Comressed Veldspar=               -298.800 =1737.000
+Comressed Dense Veldspar=         -417.600 =1827.000
+Comressed Concentrated Veldspar=  -441.200 =1699.000
+Proxeres=                         -1.550 =33.010
+Stable Pyroxeres=                 -0.271 =37.030
+Viscos Proxeres=                  4.320 =42.000
+Comressed Proxeres=               153.024 =3609.000
+Comressed Stable Proxeres=        -293.122 =3437.000
+Comressed Viscos Proxeres=        -31.034 =3737.000
+Scoredite=                        0.570 =17.050
+Massive Scoredite=                0.943 =18.320
+Concentrated Scoredite=           -1797.945 =16.850
+Comressed Scoredite=              444.966 =2093.000
+Comressed Massive Scoredite=      282.267 =2020.000
+Comressed Concentrated Scoredite= 276.205 =2091.000
+
+Veldspar=                         -3.028 =17.330
+Dense Veldspar=                   -5.396 =17.050
+Concentrated Veldspar=            -3.992 =17.410
+Comressed Veldspar=               -297.800 =1738.000
+Comressed Dense Veldspar=         -417.600 =1827.000
+Comressed Concentrated Veldspar=  -441.200 =1699.000
+Proxeres=                         -1.538 =33.010
+Stable Pyroxeres=                 -0.264 =37.020
+Viscos Proxeres=                  4.331 =42.000
+Comressed Proxeres=               154.236 =3609.000
+Comressed Stable Proxeres=        -291.414 =3437.000
+Comressed Viscos Proxeres=        -29.888 =3737.000
+Scoredite=                        0.439 =17.050
+Massive Scoredite=                0.804 =18.320
+Concentrated Scoredite=           -1812.365 =16.850
+Comressed Scoredite=              430.857 =2092.000
+Comressed Massive Scoredite=      269.409 =2021.000
+Comressed Concentrated Scoredite= 262.785 =2092.000
+
+Veldspar=                         -3.028 =17.330
+Dense Veldspar=                   -5.396 =17.050
+Concentrated Veldspar=            -3.992 =17.410
+Comressed Veldspar=               -297.800 =1738.000
+Comressed Dense Veldspar=         -417.600 =1827.000
+Comressed Concentrated Veldspar=  -441.200 =1699.000
+Proxeres=                         -1.538 =33.010
+Stable Pyroxeres=                 -0.264 =37.020
+Viscos Proxeres=                  4.331 =42.000
+Comressed Proxeres=               154.236 =3609.000
+Comressed Stable Proxeres=        -291.414 =3437.000
+Comressed Viscos Proxeres=        -29.888 =3737.000
+Scoredite=                        0.439 =17.050
+Massive Scoredite=                0.804 =18.320
+Concentrated Scoredite=           -1812.365 =16.850
+Comressed Scoredite=              430.857 =2092.000
+Comressed Massive Scoredite=      269.409 =2021.000
+Comressed Concentrated Scoredite= 262.785 =2092.000
+
+Veldspar=                         -2.919 =17.330
+Dense Veldspar=                   -5.276 =17.050
+Concentrated Veldspar=            -3.877 =17.410
+Comressed Veldspar=               -286.880 =1738.000
+Comressed Dense Veldspar=         -405.560 =1827.000
+Comressed Concentrated Veldspar=  -429.720 =1699.000
+Proxeres=                         -1.798 =33.010
+Stable Pyroxeres=                 -0.536 =37.020
+Viscos Proxeres=                  4.043 =42.000
+Comressed Proxeres=               128.203 =3609.000
+Comressed Stable Proxeres=        -319.591 =3436.000
+Comressed Viscos Proxeres=        -58.675 =3737.000
+Scoredite=                        0.104 =17.050
+Massive Scoredite=                0.450 =18.320
+Concentrated Scoredite=           -1849.166 =16.850
+Comressed Scoredite=              397.392 =2092.000
+Comressed Massive Scoredite=      234.008 =2021.000
+Comressed Concentrated Scoredite= 225.984 =2092.000
+
+Veldspar=                         -2.919 =17.330
+Dense Veldspar=                   -5.276 =17.050
+Concentrated Veldspar=            -3.877 =17.410
+Comressed Veldspar=               -274.880 =1750.000
+Comressed Dense Veldspar=         -405.560 =1827.000
+Comressed Concentrated Veldspar=  -429.720 =1699.000
+Proxeres=                         -2.218 =33.050
+Stable Pyroxeres=                 -1.026 =37.020
+Viscos Proxeres=                  3.539 =42.000
+Comressed Proxeres=               82.225 =3609.000
+Comressed Stable Proxeres=        -368.646 =3436.000
+Comressed Viscos Proxeres=        -109.054 =3737.000
+Scoredite=                        -0.205 =17.050
+Massive Scoredite=                0.123 =18.320
+Concentrated Scoredite=           -1883.153 =16.850
+Comressed Scoredite=              366.495 =2092.000
+Comressed Massive Scoredite=      201.345 =2021.000
+Comressed Concentrated Scoredite= 191.997 =2092.000
+
+Veldspar=                         -2.899 =17.350
+Dense Veldspar=                   -5.276 =17.050
+Concentrated Veldspar=            -3.877 =17.410
+Comressed Veldspar=               -274.880 =1750.000
+Comressed Dense Veldspar=         -405.560 =1827.000
+Comressed Concentrated Veldspar=  -429.720 =1699.000
+Proxeres=                         -2.254 =33.050
+Stable Pyroxeres=                 -1.066 =37.020
+Viscos Proxeres=                  3.500 =42.000
+Comressed Proxeres=               78.555 =3609.000
+Comressed Stable Proxeres=        -371.635 =3437.000
+Comressed Viscos Proxeres=        -113.043 =3737.000
+Scoredite=                        -0.195 =17.060
+Massive Scoredite=                0.123 =18.320
+Concentrated Scoredite=           -1883.122 =16.880
+Comressed Scoredite=              366.495 =2092.000
+Comressed Massive Scoredite=      201.345 =2021.000
+Comressed Concentrated Scoredite= 191.997 =2092.000
+
+Veldspar=                         -2.899 =17.350
+Dense Veldspar=                   -7.036 =15.290
+Concentrated Veldspar=            -3.877 =17.410
+Comressed Veldspar=               -274.880 =1750.000
+Comressed Dense Veldspar=         -405.560 =1827.000
+Comressed Concentrated Veldspar=  -429.720 =1699.000
+Proxeres=                         -2.395 =33.050
+Stable Pyroxeres=                 -1.220 =37.020
+Viscos Proxeres=                  3.346 =42.000
+Comressed Proxeres=               64.458 =3609.000
+Comressed Stable Proxeres=        -386.958 =3437.000
+Comressed Viscos Proxeres=        -128.365 =3737.000
+Scoredite=                        -0.195 =17.060
+Massive Scoredite=                0.123 =18.320
+Concentrated Scoredite=           -1883.122 =16.880
+Comressed Scoredite=              366.495 =2092.000
+Comressed Massive Scoredite=      201.345 =2021.000
+Comressed Concentrated Scoredite= 191.997 =2092.000
+
+Veldspar=                         -2.899 =17.350
+Dense Veldspar=                   -7.036 =15.290
+Concentrated Veldspar=            -3.877 =17.410
+Comressed Veldspar=               -274.880 =1750.000
+Comressed Dense Veldspar=         -405.560 =1827.000
+Comressed Concentrated Veldspar=  -429.720 =1699.000
+Proxeres=                         -2.395 =33.050
+Stable Pyroxeres=                 -1.220 =37.020
+Viscos Proxeres=                  3.346 =42.000
+Comressed Proxeres=               64.458 =3609.000
+Comressed Stable Proxeres=        -386.958 =3437.000
+Comressed Viscos Proxeres=        -128.365 =3737.000
+Scoredite=                        -0.195 =17.060
+Massive Scoredite=                0.123 =18.320
+Concentrated Scoredite=           -1883.122 =16.880
+Comressed Scoredite=              366.495 =2092.000
+Comressed Massive Scoredite=      201.345 =2021.000
+Comressed Concentrated Scoredite= 191.997 =2092.000
+
+Veldspar=                         -2.899 =17.350
+Dense Veldspar=                   -7.036 =15.290
+Concentrated Veldspar=            -3.877 =17.410
+Comressed Veldspar=               -274.880 =1750.000
+Comressed Dense Veldspar=         -405.560 =1827.000
+Comressed Concentrated Veldspar=  -429.720 =1699.000
+Proxeres=                         -2.395 =33.050
+Stable Pyroxeres=                 -1.220 =37.020
+Viscos Proxeres=                  3.346 =42.000
+Comressed Proxeres=               64.458 =3609.000
+Comressed Stable Proxeres=        -386.958 =3437.000
+Comressed Viscos Proxeres=        -128.365 =3737.000
+Scoredite=                        -0.195 =17.060
+Massive Scoredite=                0.123 =18.320
+Concentrated Scoredite=           -1883.122 =16.880
+Comressed Scoredite=              366.495 =2092.000
+Comressed Massive Scoredite=      201.345 =2021.000
+Comressed Concentrated Scoredite= 191.997 =2092.000
+
+Veldspar=                         -2.899 =17.350
+Dense Veldspar=                   -7.036 =15.290
+Concentrated Veldspar=            -3.877 =17.410
+Comressed Veldspar=               -274.880 =1750.000
+Comressed Dense Veldspar=         -405.560 =1827.000
+Comressed Concentrated Veldspar=  -429.720 =1699.000
+Proxeres=                         -2.395 =33.050
+Stable Pyroxeres=                 -1.220 =37.020
+Viscos Proxeres=                  3.346 =42.000
+Comressed Proxeres=               64.458 =3609.000
+Comressed Stable Proxeres=        -386.958 =3437.000
+Comressed Viscos Proxeres=        -128.365 =3737.000
+Scoredite=                        -0.195 =17.060
+Massive Scoredite=                0.123 =18.320
+Concentrated Scoredite=           -1883.122 =16.880
+Comressed Scoredite=              366.495 =2092.000
+Comressed Massive Scoredite=      201.345 =2021.000
+Comressed Concentrated Scoredite= 191.997 =2092.000
+
+Veldspar=                         -2.899 =17.350
+Dense Veldspar=                   -7.036 =15.290
+Concentrated Veldspar=            -3.877 =17.410
+Comressed Veldspar=               -274.880 =1750.000
+Comressed Dense Veldspar=         -405.560 =1827.000
+Comressed Concentrated Veldspar=  -429.720 =1699.000
+Proxeres=                         -2.395 =33.050
+Stable Pyroxeres=                 -1.220 =37.020
+Viscos Proxeres=                  3.346 =42.000
+Comressed Proxeres=               64.458 =3609.000
+Comressed Stable Proxeres=        -386.958 =3437.000
+Comressed Viscos Proxeres=        -128.365 =3737.000
+Scoredite=                        -0.195 =17.060
+Massive Scoredite=                0.123 =18.320
+Concentrated Scoredite=           -1883.122 =16.880
+Comressed Scoredite=              366.495 =2092.000
+Comressed Massive Scoredite=      201.345 =2021.000
+Comressed Concentrated Scoredite= 191.997 =2092.000
+
+Veldspar=                         -2.899 =17.350
+Dense Veldspar=                   -7.036 =15.290
+Concentrated Veldspar=            -3.877 =17.410
+Comressed Veldspar=               -274.880 =1750.000
+Comressed Dense Veldspar=         -405.560 =1827.000
+Comressed Concentrated Veldspar=  -429.720 =1699.000
+Proxeres=                         -2.395 =33.050
+Stable Pyroxeres=                 -1.220 =37.020
+Viscos Proxeres=                  3.346 =42.000
+Comressed Proxeres=               64.458 =3609.000
+Comressed Stable Proxeres=        -386.958 =3437.000
+Comressed Viscos Proxeres=        -128.365 =3737.000
+Scoredite=                        -0.195 =17.060
+Massive Scoredite=                0.123 =18.320
+Concentrated Scoredite=           -1883.122 =16.880
+Comressed Scoredite=              366.495 =2092.000
+Comressed Massive Scoredite=      201.345 =2021.000
+Comressed Concentrated Scoredite= 191.997 =2092.000
+
+Veldspar=                         -2.672 =17.390
+Dense Veldspar=                   -6.729 =15.390
+Concentrated Veldspar=            -3.670 =17.420
+Comressed Veldspar=               -243.160 =1763.000
+Comressed Dense Veldspar=         -381.920 =1830.000
+Comressed Concentrated Veldspar=  -410.040 =1699.000
+Proxeres=                         -1.113 =33.060
+Stable Pyroxeres=                 0.110 =37.000
+Viscos Proxeres=                  5.744 =43.000
+Comressed Proxeres=               194.692 =3612.000
+Comressed Stable Proxeres=        -216.955 =3472.000
+Comressed Viscos Proxeres=        13.374 =3739.000
+Scoredite=                        1.000 =17.080
+Massive Scoredite=                1.376 =18.330
+Concentrated Scoredite=           -1753.789 =16.910
+Comressed Scoredite=              489.027 =2097.000
+Comressed Massive Scoredite=      332.552 =2028.000
+Comressed Concentrated Scoredite= 332.301 =2103.000
+
+Veldspar=                         -2.672 =17.390
+Dense Veldspar=                   -6.729 =15.390
+Concentrated Veldspar=            -3.670 =17.420
+Comressed Veldspar=               -242.160 =1764.000
+Comressed Dense Veldspar=         -381.920 =1830.000
+Comressed Concentrated Veldspar=  -410.040 =1699.000
+Proxeres=                         -1.318 =33.060
+Stable Pyroxeres=                 -0.115 =37.000
+Viscos Proxeres=                  5.522 =43.000
+Comressed Proxeres=               174.214 =3612.000
+Comressed Stable Proxeres=        -239.482 =3472.000
+Comressed Viscos Proxeres=        -8.768 =3739.000
+Scoredite=                        1.090 =17.080
+Massive Scoredite=                1.471 =18.330
+Concentrated Scoredite=           -1743.901 =16.910
+Comressed Scoredite=              499.017 =2098.000
+Comressed Massive Scoredite=      342.055 =2028.000
+Comressed Concentrated Scoredite= 343.189 =2104.000
+
+Veldspar=                         -2.672 =17.390
+Dense Veldspar=                   -6.729 =15.390
+Concentrated Veldspar=            -3.670 =17.420
+Comressed Veldspar=               -242.160 =1764.000
+Comressed Dense Veldspar=         -381.920 =1830.000
+Comressed Concentrated Veldspar=  -410.040 =1699.000
+Proxeres=                         -1.514 =33.060
+Stable Pyroxeres=                 -0.322 =37.000
+Viscos Proxeres=                  5.307 =43.000
+Comressed Proxeres=               154.637 =3612.000
+Comressed Stable Proxeres=        -260.177 =3472.000
+Comressed Viscos Proxeres=        -30.302 =3739.000
+Scoredite=                        0.884 =17.070
+Massive Scoredite=                1.264 =18.330
+Concentrated Scoredite=           -1765.435 =16.910
+Comressed Scoredite=              479.440 =2098.000
+Comressed Massive Scoredite=      321.360 =2028.000
+Comressed Concentrated Scoredite= 321.655 =2104.000
+
+Veldspar=                         -2.672 =17.390
+Dense Veldspar=                   -6.729 =15.390
+Concentrated Veldspar=            -3.670 =17.420
+Comressed Veldspar=               -243.160 =1763.000
+Comressed Dense Veldspar=         -381.920 =1830.000
+Comressed Concentrated Veldspar=  -410.040 =1699.000
+Proxeres=                         -1.514 =33.060
+Stable Pyroxeres=                 -0.322 =37.000
+Viscos Proxeres=                  5.307 =43.000
+Comressed Proxeres=               154.637 =3612.000
+Comressed Stable Proxeres=        -261.177 =3471.000
+Comressed Viscos Proxeres=        -30.302 =3739.000
+Scoredite=                        0.894 =17.080
+Massive Scoredite=                1.264 =18.330
+Concentrated Scoredite=           -1765.435 =16.910
+Comressed Scoredite=              479.440 =2098.000
+Comressed Massive Scoredite=      321.360 =2028.000
+Comressed Concentrated Scoredite= 321.655 =2104.000
+
+Veldspar=                         -2.690 =17.390
+Dense Veldspar=                   -6.750 =15.390
+Concentrated Veldspar=            -3.690 =17.420
+Comressed Veldspar=               -243.032 =1765.000
+Comressed Dense Veldspar=         -383.984 =1830.000
+Comressed Concentrated Veldspar=  -412.008 =1699.000
+Proxeres=                         -1.420 =33.060
+Stable Pyroxeres=                 -0.218 =37.000
+Viscos Proxeres=                  5.408 =43.000
+Comressed Proxeres=               164.010 =3612.000
+Comressed Stable Proxeres=        -250.841 =3471.000
+Comressed Viscos Proxeres=        -20.179 =3739.000
+Scoredite=                        0.838 =17.080
+Massive Scoredite=                1.204 =18.330
+Concentrated Scoredite=           -1771.676 =16.910
+Comressed Scoredite=              473.768 =2098.000
+Comressed Massive Scoredite=      315.368 =2028.000
+Comressed Concentrated Scoredite= 315.414 =2104.000
+
+Veldspar=                         -2.700 =17.380
+Dense Veldspar=                   -6.750 =15.390
+Concentrated Veldspar=            -3.690 =17.420
+Comressed Veldspar=               -243.032 =1765.000
+Comressed Dense Veldspar=         -383.984 =1830.000
+Comressed Concentrated Veldspar=  -412.008 =1699.000
+Proxeres=                         -0.701 =33.060
+Stable Pyroxeres=                 0.555 =37.000
+Viscos Proxeres=                  6.193 =43.000
+Comressed Proxeres=               235.883 =3612.000
+Comressed Stable Proxeres=        -173.531 =3471.000
+Comressed Viscos Proxeres=        58.299 =3739.000
+Scoredite=                        1.110 =17.080
+Massive Scoredite=                1.492 =18.330
+Concentrated Scoredite=           -1741.697 =16.910
+Comressed Scoredite=              501.021 =2098.000
+Comressed Massive Scoredite=      344.179 =2028.000
+Comressed Concentrated Scoredite= 345.393 =2104.000
+
+Veldspar=                         -2.700 =17.380
+Dense Veldspar=                   -6.750 =15.390
+Concentrated Veldspar=            -3.690 =17.420
+Comressed Veldspar=               -243.032 =1765.000
+Comressed Dense Veldspar=         -383.984 =1830.000
+Comressed Concentrated Veldspar=  -412.008 =1699.000
+Proxeres=                         -0.482 =33.060
+Stable Pyroxeres=                 0.786 =37.000
+Viscos Proxeres=                  6.434 =43.000
+Comressed Proxeres=               257.761 =3612.000
+Comressed Stable Proxeres=        -150.402 =3471.000
+Comressed Viscos Proxeres=        82.365 =3739.000
+Scoredite=                        1.329 =17.080
+Massive Scoredite=                1.723 =18.330
+Concentrated Scoredite=           -1717.631 =16.910
+Comressed Scoredite=              522.900 =2098.000
+Comressed Massive Scoredite=      367.307 =2028.000
+Comressed Concentrated Scoredite= 369.459 =2104.000
+
+Veldspar=                         -2.756 =17.380
+Dense Veldspar=                   -6.812 =15.390
+Concentrated Veldspar=            -3.749 =17.420
+Comressed Veldspar=               -248.648 =1765.000
+Comressed Dense Veldspar=         -390.176 =1830.000
+Comressed Concentrated Veldspar=  -417.912 =1699.000
+Proxeres=                         -0.338 =33.060
+Stable Pyroxeres=                 0.943 =37.000
+Viscos Proxeres=                  6.590 =43.000
+Comressed Proxeres=               272.174 =3612.000
+Comressed Stable Proxeres=        -134.736 =3471.000
+Comressed Viscos Proxeres=        98.032 =3739.000
+Scoredite=                        1.308 =17.080
+Massive Scoredite=                1.701 =18.330
+Concentrated Scoredite=           -1719.953 =16.910
+Comressed Scoredite=              520.794 =2098.000
+Comressed Massive Scoredite=      365.093 =2028.000
+Comressed Concentrated Scoredite= 367.137 =2104.000
+
+Veldspar=                         -2.756 =17.380
+Dense Veldspar=                   -6.812 =15.390
+Concentrated Veldspar=            -3.749 =17.420
+Comressed Veldspar=               -248.648 =1765.000
+Comressed Dense Veldspar=         -390.176 =1830.000
+Comressed Concentrated Veldspar=  -417.912 =1699.000
+Proxeres=                         -0.338 =33.060
+Stable Pyroxeres=                 0.943 =37.000
+Viscos Proxeres=                  6.590 =43.000
+Comressed Proxeres=               272.174 =3612.000
+Comressed Stable Proxeres=        -134.736 =3471.000
+Comressed Viscos Proxeres=        98.032 =3739.000
+Scoredite=                        1.308 =17.080
+Massive Scoredite=                1.701 =18.330
+Concentrated Scoredite=           -1719.953 =16.910
+Comressed Scoredite=              520.794 =2098.000
+Comressed Massive Scoredite=      365.093 =2028.000
+Comressed Concentrated Scoredite= 367.137 =2104.000
+
+Veldspar=                         -1.016 =17.350
+Dense Veldspar=                   -4.740 =15.510
+Concentrated Veldspar=            -1.938 =17.370
+Comressed Veldspar=               -61.640 =1775.000
+Comressed Dense Veldspar=         -194.013 =1831.000
+Comressed Concentrated Veldspar=  -211.827 =1719.000
+Proxeres=                         -0.675 =32.000
+Stable Pyroxeres=                 1.711 =37.000
+Viscos Proxeres=                  8.384 =44.000
+Comressed Proxeres=               345.489 =3613.000
+Comressed Stable Proxeres=        -56.878 =3472.000
+Comressed Viscos Proxeres=        178.398 =3740.000
+Scoredite=                        2.577 =17.100
+Massive Scoredite=                3.028 =18.340
+Concentrated Scoredite=           -1582.325 =16.950
+Comressed Scoredite=              645.719 =2098.000
+Comressed Massive Scoredite=      502.768 =2034.000
+Comressed Concentrated Scoredite= 508.725 =2108.000
+
+Veldspar=                         -1.510 =17.350
+Dense Veldspar=                   -5.265 =15.530
+Concentrated Veldspar=            -2.458 =17.370
+Comressed Veldspar=               -110.040 =1776.000
+Comressed Dense Veldspar=         -248.480 =1831.000
+Comressed Concentrated Veldspar=  -263.760 =1719.000
+Proxeres=                         -0.776 =32.000
+Stable Pyroxeres=                 1.602 =37.000
+Viscos Proxeres=                  8.274 =44.000
+Comressed Proxeres=               335.396 =3613.000
+Comressed Stable Proxeres=        -67.849 =3472.000
+Comressed Viscos Proxeres=        167.428 =3740.000
+Scoredite=                        2.392 =17.100
+Massive Scoredite=                2.833 =18.340
+Concentrated Scoredite=           -1602.730 =16.970
+Comressed Scoredite=              627.194 =2098.000
+Comressed Massive Scoredite=      483.293 =2034.000
+Comressed Concentrated Scoredite= 490.300 =2110.000
+
+Veldspar=                         -1.924 =17.350
+Dense Veldspar=                   -5.721 =15.530
+Concentrated Veldspar=            -2.892 =17.370
+Comressed Veldspar=               -150.380 =1777.000
+Comressed Dense Veldspar=         -294.060 =1831.000
+Comressed Concentrated Veldspar=  -309.220 =1717.000
+Proxeres=                         -0.908 =32.000
+Stable Pyroxeres=                 1.458 =37.000
+Viscos Proxeres=                  8.131 =44.000
+Comressed Proxeres=               322.228 =3613.000
+Comressed Stable Proxeres=        -83.162 =3471.000
+Comressed Viscos Proxeres=        153.115 =3740.000
+Scoredite=                        2.237 =17.100
+Massive Scoredite=                2.670 =18.340
+Concentrated Scoredite=           -1619.822 =16.970
+Comressed Scoredite=              611.692 =2098.000
+Comressed Massive Scoredite=      467.996 =2035.000
+Comressed Concentrated Scoredite= 472.207 =2109.000
+
+Veldspar=                         -1.924 =17.350
+Dense Veldspar=                   -5.711 =15.540
+Concentrated Veldspar=            -2.892 =17.370
+Comressed Veldspar=               -149.380 =1778.000
+Comressed Dense Veldspar=         -294.060 =1831.000
+Comressed Concentrated Veldspar=  -308.220 =1718.000
+Proxeres=                         -1.253 =32.000
+Stable Pyroxeres=                 1.089 =37.000
+Viscos Proxeres=                  7.754 =44.000
+Comressed Proxeres=               287.733 =3613.000
+Comressed Stable Proxeres=        -119.089 =3472.000
+Comressed Viscos Proxeres=        115.371 =3740.000
+Scoredite=                        2.046 =17.100
+Massive Scoredite=                2.468 =18.340
+Concentrated Scoredite=           -1640.778 =16.980
+Comressed Scoredite=              592.632 =2098.000
+Comressed Massive Scoredite=      448.848 =2036.000
+Comressed Concentrated Scoredite= 451.242 =2109.000
+
+Veldspar=                         -2.316 =17.350
+Dense Veldspar=                   -6.133 =15.550
+Concentrated Veldspar=            -3.305 =17.370
+Comressed Veldspar=               -189.640 =1777.000
+Comressed Dense Veldspar=         -337.347 =1831.000
+Comressed Concentrated Veldspar=  -347.493 =1720.000
+Proxeres=                         -1.127 =32.000
+Stable Pyroxeres=                 1.223 =37.000
+Viscos Proxeres=                  7.891 =44.000
+Comressed Proxeres=               300.286 =3613.000
+Comressed Stable Proxeres=        -105.667 =3472.000
+Comressed Viscos Proxeres=        129.113 =3740.000
+Scoredite=                        1.974 =17.100
+Massive Scoredite=                2.393 =18.340
+Concentrated Scoredite=           -1648.787 =16.990
+Comressed Scoredite=              581.377 =2094.000
+Comressed Massive Scoredite=      440.263 =2035.000
+Comressed Concentrated Scoredite= 441.223 =2107.000
+
+Veldspar=                         -2.316 =17.350
+Dense Veldspar=                   -6.133 =15.550
+Concentrated Veldspar=            -3.305 =17.370
+Comressed Veldspar=               -189.640 =1777.000
+Comressed Dense Veldspar=         -337.347 =1831.000
+Comressed Concentrated Veldspar=  -347.493 =1720.000
+Proxeres=                         -1.506 =32.000
+Stable Pyroxeres=                 0.814 =37.000
+Viscos Proxeres=                  7.479 =44.000
+Comressed Proxeres=               262.446 =3613.000
+Comressed Stable Proxeres=        -146.554 =3472.000
+Comressed Viscos Proxeres=        87.877 =3740.000
+Scoredite=                        1.892 =17.100
+Massive Scoredite=                2.307 =18.340
+Concentrated Scoredite=           -1657.735 =16.990
+Comressed Scoredite=              573.242 =2094.000
+Comressed Massive Scoredite=      431.664 =2035.000
+Comressed Concentrated Scoredite= 432.275 =2107.000
+
+Veldspar=                         -2.316 =17.350
+Dense Veldspar=                   -6.133 =15.550
+Concentrated Veldspar=            -3.305 =17.370
+Comressed Veldspar=               -189.640 =1777.000
+Comressed Dense Veldspar=         -337.347 =1831.000
+Comressed Concentrated Veldspar=  -346.493 =1721.000
+Proxeres=                         -1.042 =32.000
+Stable Pyroxeres=                 1.310 =37.000
+Viscos Proxeres=                  7.986 =44.000
+Comressed Proxeres=               308.782 =3613.000
+Comressed Stable Proxeres=        -96.968 =3472.000
+Comressed Viscos Proxeres=        138.583 =3740.000
+Scoredite=                        2.154 =17.100
+Massive Scoredite=                2.583 =18.340
+Concentrated Scoredite=           -1628.987 =16.990
+Comressed Scoredite=              599.377 =2094.000
+Comressed Massive Scoredite=      459.292 =2035.000
+Comressed Concentrated Scoredite= 462.023 =2108.000
+
+Veldspar=                         -1.864 =17.340
+Dense Veldspar=                   -5.623 =15.550
+Concentrated Veldspar=            -2.818 =17.370
+Comressed Veldspar=               -149.360 =1771.000
+Comressed Dense Veldspar=         -286.320 =1831.000
+Comressed Concentrated Veldspar=  -297.840 =1721.000
+Proxeres=                         -1.042 =32.000
+Stable Pyroxeres=                 1.310 =37.000
+Viscos Proxeres=                  7.986 =44.000
+Comressed Proxeres=               308.782 =3613.000
+Comressed Stable Proxeres=        -96.968 =3472.000
+Comressed Viscos Proxeres=        138.583 =3740.000
+Scoredite=                        2.327 =17.100
+Massive Scoredite=                2.765 =18.340
+Concentrated Scoredite=           -1609.852 =16.990
+Comressed Scoredite=              612.732 =2090.000
+Comressed Massive Scoredite=      475.537 =2033.000
+Comressed Concentrated Scoredite= 480.158 =2107.000
+
+Veldspar=                         -1.864 =17.340
+Dense Veldspar=                   -5.623 =15.550
+Concentrated Veldspar=            -2.818 =17.370
+Comressed Veldspar=               -148.360 =1772.000
+Comressed Dense Veldspar=         -286.320 =1831.000
+Comressed Concentrated Veldspar=  -297.840 =1721.000
+Proxeres=                         -1.201 =32.000
+Stable Pyroxeres=                 1.140 =37.000
+Viscos Proxeres=                  7.813 =44.000
+Comressed Proxeres=               292.945 =3613.000
+Comressed Stable Proxeres=        -113.955 =3472.000
+Comressed Viscos Proxeres=        121.269 =3740.000
+Scoredite=                        2.251 =17.100
+Massive Scoredite=                2.685 =18.340
+Concentrated Scoredite=           -1618.265 =16.990
+Comressed Scoredite=              605.083 =2090.000
+Comressed Massive Scoredite=      467.451 =2033.000
+Comressed Concentrated Scoredite= 471.745 =2107.000
+
+Veldspar=                         -2.347 =17.340
+Dense Veldspar=                   -6.156 =15.550
+Concentrated Veldspar=            -3.327 =17.370
+Comressed Veldspar=               -196.720 =1772.000
+Comressed Dense Veldspar=         -340.640 =1830.000
+Comressed Concentrated Veldspar=  -348.680 =1721.000
+Proxeres=                         -1.277 =32.000
+Stable Pyroxeres=                 1.057 =37.000
+Viscos Proxeres=                  7.729 =44.000
+Comressed Proxeres=               285.277 =3613.000
+Comressed Stable Proxeres=        -122.289 =3472.000
+Comressed Viscos Proxeres=        112.934 =3740.000
+Scoredite=                        2.069 =17.100
+Massive Scoredite=                2.494 =18.340
+Concentrated Scoredite=           -1638.260 =16.990
+Comressed Scoredite=              583.948 =2087.000
+Comressed Massive Scoredite=      448.386 =2033.000
+Comressed Concentrated Scoredite= 451.750 =2107.000
+
+Veldspar=                         -2.347 =17.340
+Dense Veldspar=                   -6.156 =15.550
+Concentrated Veldspar=            -3.327 =17.370
+Comressed Veldspar=               -196.720 =1772.000
+Comressed Dense Veldspar=         -340.640 =1830.000
+Comressed Concentrated Veldspar=  -348.680 =1721.000
+Proxeres=                         -1.277 =32.000
+Stable Pyroxeres=                 1.057 =37.000
+Viscos Proxeres=                  7.729 =44.000
+Comressed Proxeres=               285.277 =3613.000
+Comressed Stable Proxeres=        -122.289 =3472.000
+Comressed Viscos Proxeres=        112.934 =3740.000
+Scoredite=                        2.069 =17.100
+Massive Scoredite=                2.494 =18.340
+Concentrated Scoredite=           -1638.260 =16.990
+Comressed Scoredite=              583.948 =2087.000
+Comressed Massive Scoredite=      448.386 =2033.000
+Comressed Concentrated Scoredite= 451.750 =2107.000
+
+Veldspar=                         -2.347 =17.340
+Dense Veldspar=                   -6.156 =15.550
+Concentrated Veldspar=            -3.327 =17.370
+Comressed Veldspar=               -196.720 =1772.000
+Comressed Dense Veldspar=         -340.640 =1830.000
+Comressed Concentrated Veldspar=  -348.680 =1721.000
+Proxeres=                         -1.277 =32.000
+Stable Pyroxeres=                 1.057 =37.000
+Viscos Proxeres=                  7.729 =44.000
+Comressed Proxeres=               285.277 =3613.000
+Comressed Stable Proxeres=        -122.289 =3472.000
+Comressed Viscos Proxeres=        112.934 =3740.000
+Scoredite=                        2.069 =17.100
+Massive Scoredite=                2.494 =18.340
+Concentrated Scoredite=           -1638.260 =16.990
+Comressed Scoredite=              583.948 =2087.000
+Comressed Massive Scoredite=      448.386 =2033.000
+Comressed Concentrated Scoredite= 451.750 =2107.000
+
+Veldspar=                         -2.347 =17.340
+Dense Veldspar=                   -6.156 =15.550
+Concentrated Veldspar=            -3.327 =17.370
+Comressed Veldspar=               -196.720 =1772.000
+Comressed Dense Veldspar=         -340.640 =1830.000
+Comressed Concentrated Veldspar=  -348.680 =1721.000
+Proxeres=                         -1.277 =32.000
+Stable Pyroxeres=                 1.057 =37.000
+Viscos Proxeres=                  7.729 =44.000
+Comressed Proxeres=               285.277 =3613.000
+Comressed Stable Proxeres=        -122.289 =3472.000
+Comressed Viscos Proxeres=        112.934 =3740.000
+Scoredite=                        2.069 =17.100
+Massive Scoredite=                2.494 =18.340
+Concentrated Scoredite=           -1638.260 =16.990
+Comressed Scoredite=              583.948 =2087.000
+Comressed Massive Scoredite=      448.386 =2033.000
+Comressed Concentrated Scoredite= 451.750 =2107.000
+
+Veldspar=                         -2.347 =17.340
+Dense Veldspar=                   -6.156 =15.550
+Concentrated Veldspar=            -3.327 =17.370
+Comressed Veldspar=               -196.720 =1772.000
+Comressed Dense Veldspar=         -340.640 =1830.000
+Comressed Concentrated Veldspar=  -348.680 =1721.000
+Proxeres=                         -1.277 =32.000
+Stable Pyroxeres=                 1.057 =37.000
+Viscos Proxeres=                  7.729 =44.000
+Comressed Proxeres=               285.277 =3613.000
+Comressed Stable Proxeres=        -122.289 =3472.000
+Comressed Viscos Proxeres=        112.934 =3740.000
+Scoredite=                        2.069 =17.100
+Massive Scoredite=                2.494 =18.340
+Concentrated Scoredite=           -1638.260 =16.990
+Comressed Scoredite=              583.948 =2087.000
+Comressed Massive Scoredite=      448.386 =2033.000
+Comressed Concentrated Scoredite= 451.750 =2107.000
+
+Veldspar=                         -2.310 =17.330
+Dense Veldspar=                   -5.715 =15.940
+Concentrated Veldspar=            -3.278 =17.370
+Comressed Veldspar=               -183.040 =1781.000
+Comressed Dense Veldspar=         -323.480 =1842.000
+Comressed Concentrated Veldspar=  -323.760 =1741.000
+Proxeres=                         -1.704 =32.020
+Stable Pyroxeres=                 0.599 =37.010
+Viscos Proxeres=                  7.236 =44.000
+Comressed Proxeres=               246.581 =3619.000
+Comressed Stable Proxeres=        -162.148 =3479.000
+Comressed Viscos Proxeres=        64.598 =3741.000
+Scoredite=                        1.499 =17.090
+Massive Scoredite=                1.961 =18.400
+Concentrated Scoredite=           -1699.731 =17.170
+Comressed Scoredite=              533.898 =2093.000
+Comressed Massive Scoredite=      408.122 =2052.000
+Comressed Concentrated Scoredite= 391.099 =2108.000
+
+Veldspar=                         -2.176 =17.330
+Dense Veldspar=                   -5.567 =15.940
+Concentrated Veldspar=            -3.137 =17.370
+Comressed Veldspar=               -169.624 =1781.000
+Comressed Dense Veldspar=         -308.688 =1842.000
+Comressed Concentrated Veldspar=  -309.656 =1741.000
+Proxeres=                         -1.903 =32.020
+Stable Pyroxeres=                 0.386 =37.010
+Viscos Proxeres=                  7.018 =44.000
+Comressed Proxeres=               226.668 =3619.000
+Comressed Stable Proxeres=        -183.391 =3479.000
+Comressed Viscos Proxeres=        42.778 =3741.000
+Scoredite=                        1.415 =17.090
+Massive Scoredite=                1.872 =18.400
+Concentrated Scoredite=           -1709.007 =17.170
+Comressed Scoredite=              525.454 =2093.000
+Comressed Massive Scoredite=      399.167 =2052.000
+Comressed Concentrated Scoredite= 381.823 =2108.000
+
+Veldspar=                         -2.176 =17.330
+Dense Veldspar=                   -5.577 =15.930
+Concentrated Veldspar=            -3.137 =17.370
+Comressed Veldspar=               -169.624 =1781.000
+Comressed Dense Veldspar=         -308.688 =1842.000
+Comressed Concentrated Veldspar=  -309.656 =1741.000
+Proxeres=                         -2.038 =32.020
+Stable Pyroxeres=                 0.240 =37.010
+Viscos Proxeres=                  6.872 =44.000
+Comressed Proxeres=               213.219 =3619.000
+Comressed Stable Proxeres=        -198.010 =3479.000
+Comressed Viscos Proxeres=        28.159 =3741.000
+Scoredite=                        1.415 =17.090
+Massive Scoredite=                1.872 =18.400
+Concentrated Scoredite=           -1709.007 =17.170
+Comressed Scoredite=              525.454 =2093.000
+Comressed Massive Scoredite=      399.167 =2052.000
+Comressed Concentrated Scoredite= 382.823 =2109.000
+
+Veldspar=                         -2.189 =17.330
+Dense Veldspar=                   -5.591 =15.930
+Concentrated Veldspar=            -3.150 =17.370
+Comressed Veldspar=               -168.872 =1783.000
+Comressed Dense Veldspar=         -308.064 =1844.000
+Comressed Concentrated Veldspar=  -308.968 =1743.000
+Proxeres=                         -2.238 =32.020
+Stable Pyroxeres=                 0.027 =37.010
+Viscos Proxeres=                  6.652 =44.000
+Comressed Proxeres=               193.226 =3619.000
+Comressed Stable Proxeres=        -219.334 =3479.000
+Comressed Viscos Proxeres=        6.250 =3741.000
+Scoredite=                        1.273 =17.090
+Massive Scoredite=                1.722 =18.400
+Concentrated Scoredite=           -1724.538 =17.170
+Comressed Scoredite=              512.336 =2094.000
+Comressed Massive Scoredite=      386.245 =2054.000
+Comressed Concentrated Scoredite= 369.292 =2111.000
+
+Veldspar=                         -2.189 =17.330
+Dense Veldspar=                   -5.591 =15.930
+Concentrated Veldspar=            -3.150 =17.370
+Comressed Veldspar=               -168.872 =1783.000
+Comressed Dense Veldspar=         -308.064 =1844.000
+Comressed Concentrated Veldspar=  -308.968 =1743.000
+Proxeres=                         -2.453 =32.020
+Stable Pyroxeres=                 -0.202 =37.010
+Viscos Proxeres=                  6.417 =44.000
+Comressed Proxeres=               172.731 =3620.000
+Comressed Stable Proxeres=        -241.237 =3480.000
+Comressed Viscos Proxeres=        -17.317 =3741.000
+Scoredite=                        1.118 =17.090
+Massive Scoredite=                1.559 =18.400
+Concentrated Scoredite=           -1741.574 =17.170
+Comressed Scoredite=              496.848 =2094.000
+Comressed Massive Scoredite=      369.872 =2054.000
+Comressed Concentrated Scoredite= 352.256 =2111.000
+
+Veldspar=                         -2.669 =17.330
+Dense Veldspar=                   -6.120 =15.930
+Concentrated Veldspar=            -3.655 =17.370
+Comressed Veldspar=               -215.920 =1784.000
+Comressed Dense Veldspar=         -361.040 =1844.000
+Comressed Concentrated Veldspar=  -358.480 =1744.000
+Proxeres=                         -2.835 =32.020
+Stable Pyroxeres=                 -0.612 =37.010
+Viscos Proxeres=                  5.999 =44.000
+Comressed Proxeres=               134.523 =3620.000
+Comressed Stable Proxeres=        -282.192 =3480.000
+Comressed Viscos Proxeres=        -59.099 =3741.000
+Scoredite=                        0.745 =17.090
+Massive Scoredite=                1.165 =18.400
+Concentrated Scoredite=           -1782.658 =17.170
+Comressed Scoredite=              460.541 =2095.000
+Comressed Massive Scoredite=      331.539 =2055.000
+Comressed Concentrated Scoredite= 312.172 =2112.000
+
+Veldspar=                         -2.628 =17.330
+Dense Veldspar=                   -6.075 =15.930
+Concentrated Veldspar=            -3.611 =17.370
+Comressed Veldspar=               -211.760 =1784.000
+Comressed Dense Veldspar=         -356.453 =1844.000
+Comressed Concentrated Veldspar=  -354.107 =1744.000
+Proxeres=                         -2.850 =32.020
+Stable Pyroxeres=                 -0.628 =37.010
+Viscos Proxeres=                  5.983 =44.000
+Comressed Proxeres=               133.039 =3620.000
+Comressed Stable Proxeres=        -283.805 =3480.000
+Comressed Viscos Proxeres=        -60.712 =3741.000
+Scoredite=                        0.761 =17.090
+Massive Scoredite=                1.182 =18.400
+Concentrated Scoredite=           -1780.938 =17.170
+Comressed Scoredite=              462.101 =2095.000
+Comressed Massive Scoredite=      333.179 =2055.000
+Comressed Concentrated Scoredite= 314.892 =2113.000
+
+Veldspar=                         -2.669 =17.330
+Dense Veldspar=                   -6.090 =15.960
+Concentrated Veldspar=            -3.655 =17.370
+Comressed Veldspar=               -212.920 =1787.000
+Comressed Dense Veldspar=         -359.040 =1846.000
+Comressed Concentrated Veldspar=  -355.480 =1747.000
+Proxeres=                         -3.397 =32.020
+Stable Pyroxeres=                 -1.210 =37.010
+Viscos Proxeres=                  5.382 =44.000
+Comressed Proxeres=               79.315 =3621.000
+Comressed Stable Proxeres=        -340.974 =3481.000
+Comressed Viscos Proxeres=        -120.769 =3741.000
+Scoredite=                        0.305 =17.090
+Massive Scoredite=                0.700 =18.400
+Concentrated Scoredite=           -1831.125 =17.170
+Comressed Scoredite=              417.480 =2096.000
+Comressed Massive Scoredite=      289.960 =2060.000
+Comressed Concentrated Scoredite= 266.705 =2115.000
+
+Veldspar=                         -2.669 =17.330
+Dense Veldspar=                   -6.090 =15.960
+Concentrated Veldspar=            -3.655 =17.370
+Comressed Veldspar=               -212.920 =1787.000
+Comressed Dense Veldspar=         -359.040 =1846.000
+Comressed Concentrated Veldspar=  -355.480 =1747.000
+Proxeres=                         -3.397 =32.020
+Stable Pyroxeres=                 -1.210 =37.010
+Viscos Proxeres=                  5.382 =44.000
+Comressed Proxeres=               79.315 =3621.000
+Comressed Stable Proxeres=        -340.974 =3481.000
+Comressed Viscos Proxeres=        -120.769 =3741.000
+Scoredite=                        0.305 =17.090
+Massive Scoredite=                0.700 =18.400
+Concentrated Scoredite=           -1831.125 =17.170
+Comressed Scoredite=              417.480 =2096.000
+Comressed Massive Scoredite=      289.960 =2060.000
+Comressed Concentrated Scoredite= 266.705 =2115.000
+
+Veldspar=                         -2.106 =17.300
+Dense Veldspar=                   -5.227 =16.170
+Concentrated Veldspar=            -3.142 =17.260
+Comressed Veldspar=               -151.640 =1789.000
+Comressed Dense Veldspar=         -288.680 =1851.000
+Comressed Concentrated Veldspar=  -288.160 =1752.000
+Proxeres=                         -3.668 =32.050
+Stable Pyroxeres=                 -1.534 =37.010
+Viscos Proxeres=                  5.054 =44.000
+Comressed Proxeres=               51.233 =3623.000
+Comressed Stable Proxeres=        -364.413 =3490.000
+Comressed Viscos Proxeres=        -149.580 =3745.000
+Scoredite=                        0.510 =17.160
+Massive Scoredite=                0.862 =18.420
+Concentrated Scoredite=           -1816.124 =17.200
+Comressed Scoredite=              443.038 =2108.000
+Comressed Massive Scoredite=      311.162 =2067.000
+Comressed Concentrated Scoredite= 305.676 =2139.000
+
+Veldspar=                         -2.406 =17.000
+Dense Veldspar=                   -5.227 =16.170
+Concentrated Veldspar=            -3.142 =17.260
+Comressed Veldspar=               -150.640 =1790.000
+Comressed Dense Veldspar=         -287.680 =1852.000
+Comressed Concentrated Veldspar=  -287.160 =1753.000
+Proxeres=                         -4.038 =32.050
+Stable Pyroxeres=                 -1.939 =37.010
+Viscos Proxeres=                  4.652 =44.000
+Comressed Proxeres=               14.191 =3623.000
+Comressed Stable Proxeres=        -404.856 =3490.000
+Comressed Viscos Proxeres=        -189.764 =3745.000
+Scoredite=                        0.571 =17.160
+Massive Scoredite=                0.926 =18.420
+Concentrated Scoredite=           -1809.482 =17.190
+Comressed Scoredite=              451.085 =2110.000
+Comressed Massive Scoredite=      317.555 =2067.000
+Comressed Concentrated Scoredite= 312.328 =2139.000
+
+Veldspar=                         -2.417 =17.000
+Dense Veldspar=                   -5.228 =16.180
+Concentrated Veldspar=            -3.153 =17.260
+Comressed Veldspar=               -150.680 =1791.000
+Comressed Dense Veldspar=         -289.827 =1851.000
+Comressed Concentrated Veldspar=  -287.253 =1754.000
+Proxeres=                         -3.800 =32.050
+Stable Pyroxeres=                 -1.680 =37.010
+Viscos Proxeres=                  4.911 =44.000
+Comressed Proxeres=               39.954 =3625.000
+Comressed Stable Proxeres=        -379.027 =3490.000
+Comressed Viscos Proxeres=        -163.934 =3745.000
+Scoredite=                        0.567 =17.160
+Massive Scoredite=                0.921 =18.420
+Concentrated Scoredite=           -1809.912 =17.190
+Comressed Scoredite=              451.695 =2111.000
+Comressed Massive Scoredite=      317.145 =2067.000
+Comressed Concentrated Scoredite= 312.898 =2140.000
+
+Veldspar=                         -2.417 =17.000
+Dense Veldspar=                   -5.228 =16.180
+Concentrated Veldspar=            -3.153 =17.260
+Comressed Veldspar=               -150.680 =1791.000
+Comressed Dense Veldspar=         -289.827 =1851.000
+Comressed Concentrated Veldspar=  -287.253 =1754.000
+Proxeres=                         -3.800 =32.050
+Stable Pyroxeres=                 -1.680 =37.010
+Viscos Proxeres=                  4.911 =44.000
+Comressed Proxeres=               39.954 =3625.000
+Comressed Stable Proxeres=        -378.027 =3491.000
+Comressed Viscos Proxeres=        -163.934 =3745.000
+Scoredite=                        0.567 =17.160
+Massive Scoredite=                0.921 =18.420
+Concentrated Scoredite=           -1809.912 =17.190
+Comressed Scoredite=              452.695 =2112.000
+Comressed Massive Scoredite=      317.145 =2067.000
+Comressed Concentrated Scoredite= 313.898 =2141.000
+
+Veldspar=                         -2.417 =17.000
+Dense Veldspar=                   -5.228 =16.180
+Concentrated Veldspar=            -3.153 =17.260
+Comressed Veldspar=               -150.680 =1791.000
+Comressed Dense Veldspar=         -289.827 =1851.000
+Comressed Concentrated Veldspar=  -287.253 =1754.000
+Proxeres=                         -3.690 =32.050
+Stable Pyroxeres=                 -1.560 =37.010
+Viscos Proxeres=                  5.030 =44.000
+Comressed Proxeres=               50.962 =3625.000
+Comressed Stable Proxeres=        -366.023 =3491.000
+Comressed Viscos Proxeres=        -151.987 =3745.000
+Scoredite=                        0.554 =17.160
+Massive Scoredite=                0.907 =18.420
+Concentrated Scoredite=           -1811.360 =17.200
+Comressed Scoredite=              453.370 =2114.000
+Comressed Massive Scoredite=      315.744 =2067.000
+Comressed Concentrated Scoredite= 314.440 =2143.000
+
+Veldspar=                         -2.417 =17.000
+Dense Veldspar=                   -5.228 =16.180
+Concentrated Veldspar=            -3.153 =17.260
+Comressed Veldspar=               -150.680 =1791.000
+Comressed Dense Veldspar=         -289.827 =1851.000
+Comressed Concentrated Veldspar=  -287.253 =1754.000
+Proxeres=                         -3.707 =32.050
+Stable Pyroxeres=                 -1.578 =37.010
+Viscos Proxeres=                  5.011 =44.000
+Comressed Proxeres=               49.262 =3625.000
+Comressed Stable Proxeres=        -367.820 =3491.000
+Comressed Viscos Proxeres=        -153.857 =3745.000
+Scoredite=                        0.537 =17.160
+Massive Scoredite=                0.889 =18.420
+Concentrated Scoredite=           -1813.230 =17.200
+Comressed Scoredite=              451.670 =2114.000
+Comressed Massive Scoredite=      313.947 =2067.000
+Comressed Concentrated Scoredite= 312.570 =2143.000
+
+Veldspar=                         -2.417 =17.000
+Dense Veldspar=                   -5.228 =16.180
+Concentrated Veldspar=            -3.163 =17.250
+Comressed Veldspar=               -150.680 =1791.000
+Comressed Dense Veldspar=         -289.827 =1851.000
+Comressed Concentrated Veldspar=  -287.253 =1754.000
+Proxeres=                         -3.707 =32.050
+Stable Pyroxeres=                 -1.578 =37.010
+Viscos Proxeres=                  5.011 =44.000
+Comressed Proxeres=               49.262 =3625.000
+Comressed Stable Proxeres=        -367.820 =3491.000
+Comressed Viscos Proxeres=        -153.857 =3745.000
+Scoredite=                        0.537 =17.160
+Massive Scoredite=                0.889 =18.420
+Concentrated Scoredite=           -1813.230 =17.200
+Comressed Scoredite=              453.670 =2116.000
+Comressed Massive Scoredite=      313.947 =2067.000
+Comressed Concentrated Scoredite= 314.570 =2145.000
+
+Veldspar=                         -2.444 =17.000
+Dense Veldspar=                   -5.258 =16.180
+Concentrated Veldspar=            -3.191 =17.250
+Comressed Veldspar=               -155.384 =1789.000
+Comressed Dense Veldspar=         -292.808 =1851.000
+Comressed Concentrated Veldspar=  -291.096 =1753.000
+Proxeres=                         -3.760 =32.050
+Stable Pyroxeres=                 -1.636 =37.010
+Viscos Proxeres=                  4.954 =44.000
+Comressed Proxeres=               43.990 =3625.000
+Comressed Stable Proxeres=        -373.565 =3491.000
+Comressed Viscos Proxeres=        -159.582 =3745.000
+Scoredite=                        0.461 =17.090
+Massive Scoredite=                0.884 =18.420
+Concentrated Scoredite=           -1813.812 =17.210
+Comressed Scoredite=              453.134 =2116.000
+Comressed Massive Scoredite=      313.386 =2067.000
+Comressed Concentrated Scoredite= 313.978 =2145.000
+
+Veldspar=                         -2.444 =17.000
+Dense Veldspar=                   -5.248 =16.190
+Concentrated Veldspar=            -3.191 =17.250
+Comressed Veldspar=               -155.384 =1789.000
+Comressed Dense Veldspar=         -292.808 =1851.000
+Comressed Concentrated Veldspar=  -291.096 =1753.000
+Proxeres=                         -3.651 =32.050
+Stable Pyroxeres=                 -1.517 =37.010
+Viscos Proxeres=                  5.073 =44.000
+Comressed Proxeres=               54.931 =3625.000
+Comressed Stable Proxeres=        -360.672 =3492.000
+Comressed Viscos Proxeres=        -147.689 =3745.000
+Scoredite=                        0.461 =17.090
+Massive Scoredite=                0.884 =18.420
+Concentrated Scoredite=           -1813.812 =17.210
+Comressed Scoredite=              454.134 =2117.000
+Comressed Massive Scoredite=      314.386 =2068.000
+Comressed Concentrated Scoredite= 314.978 =2146.000
+
+Veldspar=                         -2.479 =17.000
+Dense Veldspar=                   -5.277 =16.200
+Concentrated Veldspar=            -3.228 =17.250
+Comressed Veldspar=               -147.920 =1800.000
+Comressed Dense Veldspar=         -296.707 =1851.000
+Comressed Concentrated Veldspar=  -293.813 =1754.000
+Proxeres=                         -3.651 =32.050
+Stable Pyroxeres=                 -1.517 =37.010
+Viscos Proxeres=                  5.073 =44.000
+Comressed Proxeres=               54.900 =3625.000
+Comressed Stable Proxeres=        -360.706 =3492.000
+Comressed Viscos Proxeres=        -147.723 =3745.000
+Scoredite=                        0.448 =17.090
+Massive Scoredite=                0.870 =18.420
+Concentrated Scoredite=           -1815.274 =17.210
+Comressed Scoredite=              454.808 =2119.000
+Comressed Massive Scoredite=      312.992 =2068.000
+Comressed Concentrated Scoredite= 317.516 =2150.000
+
+Veldspar=                         -2.510 =17.000
+Dense Veldspar=                   -5.311 =16.200
+Concentrated Veldspar=            -3.261 =17.250
+Comressed Veldspar=               -162.040 =1789.000
+Comressed Dense Veldspar=         -300.147 =1851.000
+Comressed Concentrated Veldspar=  -297.093 =1754.000
+Proxeres=                         -3.708 =32.050
+Stable Pyroxeres=                 -1.579 =37.010
+Viscos Proxeres=                  5.011 =44.000
+Comressed Proxeres=               48.225 =3624.000
+Comressed Stable Proxeres=        -365.874 =3493.000
+Comressed Viscos Proxeres=        -153.890 =3745.000
+Scoredite=                        0.436 =17.090
+Massive Scoredite=                0.858 =18.420
+Concentrated Scoredite=           -1816.564 =17.210
+Comressed Scoredite=              453.638 =2119.000
+Comressed Massive Scoredite=      311.762 =2068.000
+Comressed Concentrated Scoredite= 316.226 =2150.000
+
+Veldspar=                         -2.557 =17.000
+Dense Veldspar=                   -5.363 =16.200
+Concentrated Veldspar=            -3.310 =17.250
+Comressed Veldspar=               -167.720 =1788.000
+Comressed Dense Veldspar=         -306.307 =1850.000
+Comressed Concentrated Veldspar=  -305.013 =1751.000
+Proxeres=                         -3.711 =32.050
+Stable Pyroxeres=                 -1.582 =37.010
+Viscos Proxeres=                  5.008 =44.000
+Comressed Proxeres=               47.924 =3624.000
+Comressed Stable Proxeres=        -366.203 =3493.000
+Comressed Viscos Proxeres=        -154.217 =3745.000
+Scoredite=                        0.419 =17.090
+Massive Scoredite=                0.840 =18.420
+Concentrated Scoredite=           -1818.431 =17.210
+Comressed Scoredite=              451.945 =2119.000
+Comressed Massive Scoredite=      309.983 =2068.000
+Comressed Concentrated Scoredite= 314.359 =2150.000
+
+Veldspar=                         -2.711 =17.000
+Dense Veldspar=                   -4.732 =17.000
+Concentrated Veldspar=            -3.471 =17.250
+Comressed Veldspar=               -183.060 =1788.000
+Comressed Dense Veldspar=         -323.220 =1850.000
+Comressed Concentrated Veldspar=  -321.140 =1751.000
+Proxeres=                         -3.743 =32.050
+Stable Pyroxeres=                 -1.617 =37.010
+Viscos Proxeres=                  4.973 =44.000
+Comressed Proxeres=               44.717 =3624.000
+Comressed Stable Proxeres=        -370.690 =3492.000
+Comressed Viscos Proxeres=        -157.704 =3745.000
+Scoredite=                        0.362 =17.090
+Massive Scoredite=                0.779 =18.420
+Concentrated Scoredite=           -1824.773 =17.210
+Comressed Scoredite=              446.193 =2119.000
+Comressed Massive Scoredite=      302.936 =2067.000
+Comressed Concentrated Scoredite= 308.017 =2150.000
+
+Veldspar=                         -2.692 =17.000
+Dense Veldspar=                   -4.711 =17.000
+Concentrated Veldspar=            -3.441 =17.260
+Comressed Veldspar=               -197.166 =1772.000
+Comressed Dense Veldspar=         -321.131 =1850.000
+Comressed Concentrated Veldspar=  -319.149 =1751.000
+Proxeres=                         -3.808 =32.050
+Stable Pyroxeres=                 -1.687 =37.010
+Viscos Proxeres=                  4.902 =44.000
+Comressed Proxeres=               36.233 =3622.000
+Comressed Stable Proxeres=        -377.737 =3492.000
+Comressed Viscos Proxeres=        -164.752 =3745.000
+Scoredite=                        0.369 =17.090
+Massive Scoredite=                0.787 =18.420
+Concentrated Scoredite=           -1824.004 =17.210
+Comressed Scoredite=              445.890 =2118.000
+Comressed Massive Scoredite=      303.669 =2067.000
+Comressed Concentrated Scoredite= 308.786 =2150.000
+
+Veldspar=                         -2.682 =17.010
+Dense Veldspar=                   -4.711 =17.000
+Concentrated Veldspar=            -3.441 =17.260
+Comressed Veldspar=               -181.166 =1788.000
+Comressed Dense Veldspar=         -320.131 =1851.000
+Comressed Concentrated Veldspar=  -318.149 =1752.000
+Proxeres=                         -3.802 =32.050
+Stable Pyroxeres=                 -1.681 =37.010
+Viscos Proxeres=                  4.909 =44.000
+Comressed Proxeres=               36.822 =3622.000
+Comressed Stable Proxeres=        -377.096 =3492.000
+Comressed Viscos Proxeres=        -164.111 =3745.000
+Scoredite=                        0.369 =17.090
+Massive Scoredite=                0.787 =18.420
+Concentrated Scoredite=           -1824.004 =17.210
+Comressed Scoredite=              447.890 =2120.000
+Comressed Massive Scoredite=      303.669 =2067.000
+Comressed Concentrated Scoredite= 311.786 =2153.000
+
+Veldspar=                         -2.682 =17.010
+Dense Veldspar=                   -4.711 =17.000
+Concentrated Veldspar=            -3.441 =17.260
+Comressed Veldspar=               -181.166 =1788.000
+Comressed Dense Veldspar=         -320.131 =1851.000
+Comressed Concentrated Veldspar=  -318.149 =1752.000
+Proxeres=                         -3.825 =32.050
+Stable Pyroxeres=                 -1.707 =37.010
+Viscos Proxeres=                  4.883 =44.000
+Comressed Proxeres=               34.463 =3622.000
+Comressed Stable Proxeres=        -379.660 =3492.000
+Comressed Viscos Proxeres=        -166.675 =3745.000
+Scoredite=                        0.369 =17.090
+Massive Scoredite=                0.787 =18.420
+Concentrated Scoredite=           -1824.004 =17.210
+Comressed Scoredite=              447.890 =2120.000
+Comressed Massive Scoredite=      303.669 =2067.000
+Comressed Concentrated Scoredite= 311.786 =2153.000
+
